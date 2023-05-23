@@ -1,0 +1,29 @@
+.defaultLabel {
+  display: block;
+  font-size: 16px;
+  background: #f5f5f5;
+  border: 1px solid #333;
+  padding: 8px 16px;
+  margin: 10px;
+  border-radius: 4px;
+  color: black;
+}
+
+.defaultLabel:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.successLabel {
+  background: green;
+  color: white;
+}
+
+.errorLabel {
+  background: red;
+  color: white;
+}
+
+.alertLabel {
+  background: orange;
+}

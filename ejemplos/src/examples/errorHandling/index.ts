@@ -1,0 +1,1 @@
+export { ErrorHandlingPage } from './Page'

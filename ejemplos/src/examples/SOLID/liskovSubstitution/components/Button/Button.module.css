@@ -1,0 +1,20 @@
+.defaultButton {
+  display: block;
+  font-size: 16px;
+  background: #f5f5f5;
+  border: 1px solid #333;
+  padding: 8px 16px;
+  margin: 10px;
+  border-radius: 4px;
+  color: black;
+}
+
+.primaryButton {
+  background: green;
+  color: white;
+}
+
+.dangerButton {
+  background: red;
+  color: white;
+}
