@@ -1,3 +1,5 @@
 export { SingleResponsabilityPage } from './singleResponsability/Page'
 export { OpenAndClosePage } from './openAndClose/Page'
 export { LiskovSubstitutionPage } from './liskovSubstitution/Page'
+export { InterfaceSegregationPage } from './interfaceSegregation/Page'
+export { DependencyInversionPage } from './dependencyInversion/Page'

@@ -1,0 +1,1 @@
+export { CssInJsPage } from './Page'
