@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import styles from './Page.module.css'
+import styles from './Label.module.css'
 
 // Liskov Substitution Principle
 // En el siguiente ejemplo, la superclase Label

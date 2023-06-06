@@ -10,6 +10,6 @@ module.exports = {
   plugins: ['react-refresh'],
   rules: {
     'react-refresh/only-export-components': 'warn',
-    '@typescript-eslint/no-inferrable-types': 'disabled'
+    '@typescript-eslint/no-inferrable-types': 'off'
   }
 }

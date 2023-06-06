@@ -1,6 +1,9 @@
 import { FC } from 'react'
 import {
+  CssInJsPage,
+  DependencyInversionPage,
   ErrorHandlingPage,
+  InterfaceSegregationPage,
   LiskovSubstitutionPage,
   OpenAndClosePage,
   SingleResponsabilityPage
@@ -32,5 +35,20 @@ export const routes: route[] = [
     name: 'SOLID: Liskov Substitution',
     path: 'solid-liskov-substitution',
     Component: LiskovSubstitutionPage
+  },
+  {
+    name: 'SOLID: Interface Segregation',
+    path: 'solid-interface-segregation',
+    Component: InterfaceSegregationPage
+  },
+  {
+    name: 'SOLID: Dependency Inversion',
+    path: 'solid-dependency-inversion',
+    Component: DependencyInversionPage
+  },
+  {
+    name: 'CSS in JS',
+    path: 'css-in-js',
+    Component: CssInJsPage
   }
 ]

@@ -1,0 +1,13 @@
+#tv {
+  display: flex;
+  flex-direction: row;
+  width: 740px;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#tv:first-child {
+  margin-left: 10px;
+  margin-top: 13px;
+}
